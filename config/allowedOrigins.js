@@ -1,3 +1,3 @@
-const allowedOrigins = ["http://localhost:3000"];
+const allowedOrigins = ["https://fastidious-caramel-754135.netlify.app"];
 
 module.exports = allowedOrigins;
